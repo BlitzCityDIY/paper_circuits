@@ -1,0 +1,277 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 77.78 65.78">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 0.71px;
+      }
+
+      .cls-1 {
+        stroke: #ffbf7f;
+      }
+
+      .cls-2 {
+        stroke: #0cc;
+      }
+
+      .cls-3 {
+        stroke: #0c9;
+      }
+    </style>
+  </defs>
+  <title>copper</title>
+  <g id="_20" data-name="20">
+    <g id="LWPOLYLINE">
+      <path class="cls-1" d="M956.47,507.47l-35,35a.06.06,0,0,0,0,.06h.06l35-35a0,0,0,0,0-.06-.06Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-2" data-name="LWPOLYLINE">
+      <path class="cls-1" d="M998.53,518.47l-11-11a0,0,0,0,0-.06.06l11,11h.06A.06.06,0,0,0,998.53,518.47Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-3" data-name="LWPOLYLINE">
+      <path class="cls-1" d="M987.5,507.46h-31a0,0,0,1,0,0,.08h31a0,0,0,0,0,0-.08Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-4" data-name="LWPOLYLINE">
+      <path class="cls-1" d="M921.46,542.5v6a0,0,0,0,0,.08,0v-6a0,0,0,0,0-.08,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-5" data-name="LWPOLYLINE">
+      <path class="cls-1" d="M921.47,548.53l24,24h.06a.06.06,0,0,0,0-.06l-24-24h-.06A.06.06,0,0,0,921.47,548.53Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-6" data-name="LWPOLYLINE">
+      <path class="cls-1" d="M981.53,572.53l17-17a.06.06,0,0,0,0-.06h-.06l-17,17a.06.06,0,0,0,0,.06Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-7" data-name="LWPOLYLINE">
+      <path class="cls-1" d="M998.54,555.5v-37a0,0,0,0,0-.08,0v37a0,0,0,0,0,.08,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-8" data-name="LWPOLYLINE">
+      <path class="cls-1" d="M945.5,572.54h36a0,0,0,0,0,0-.08h-36a0,0,0,0,0,0,.08Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+  </g>
+  <g id="_0" data-name="0">
+    <g id="SOLID">
+      <line class="cls-2" x1="3.39" y1="41.39" x2="3.39" y2="35.39"/>
+      <line class="cls-2" x1="3.39" y1="35.39" x2="14.39" y2="35.39"/>
+      <line class="cls-2" x1="14.39" y1="35.39" x2="14.39" y2="41.39"/>
+      <line class="cls-2" x1="14.39" y1="41.39" x2="3.39" y2="41.39"/>
+    </g>
+    <g id="SOLID-2" data-name="SOLID">
+      <line class="cls-2" x1="12.39" y1="32.39" x2="12.39" y2="26.39"/>
+      <line class="cls-2" x1="12.39" y1="26.39" x2="23.39" y2="26.39"/>
+      <line class="cls-2" x1="23.39" y1="26.39" x2="23.39" y2="32.39"/>
+      <line class="cls-2" x1="23.39" y1="32.39" x2="12.39" y2="32.39"/>
+    </g>
+    <g id="CIRCLE">
+      <path class="cls-3" d="M971.12,527.5a.89.89,0,1,0-.89.89.89.89,0,0,0,.89-.89Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-9" data-name="LWPOLYLINE">
+      <polygon class="cls-3" points="50.77 20.76 50.77 20.02 51.29 19.5 52.03 19.5 52.55 20.02 52.55 20.76 52.03 21.28 51.29 21.28 50.77 20.76"/>
+    </g>
+    <g id="CIRCLE-2" data-name="CIRCLE">
+      <path class="cls-3" d="M971.88,537.5a.89.89,0,1,0,.89-.89.89.89,0,0,0-.89.89Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-10" data-name="LWPOLYLINE">
+      <polygon class="cls-3" points="50.01 30.02 50.01 30.76 49.49 31.28 48.75 31.28 48.23 30.76 48.23 30.02 48.75 29.5 49.49 29.5 50.01 30.02"/>
+    </g>
+    <g id="LWPOLYLINE-11" data-name="LWPOLYLINE">
+      <polygon class="cls-3" points="39.5 21.05 39.5 21.74 39.01 22.23 38.31 22.23 37.82 21.74 37.82 21.05 38.31 20.55 39.01 20.55 39.5 21.05"/>
+    </g>
+    <g id="SOLID-3" data-name="SOLID">
+      <line class="cls-3" x1="36.96" y1="20.55" x2="36.96" y2="22.23"/>
+      <line class="cls-3" x1="36.96" y1="22.23" x2="35.28" y2="22.23"/>
+      <line class="cls-3" x1="35.28" y1="22.23" x2="35.28" y2="20.55"/>
+      <line class="cls-3" x1="35.28" y1="20.55" x2="36.96" y2="20.55"/>
+    </g>
+    <g id="LWPOLYLINE-12" data-name="LWPOLYLINE">
+      <polygon class="cls-3" points="50.6 13.21 50.6 12.62 51.01 12.2 51.6 12.2 52.02 12.62 52.02 13.21 51.6 13.62 51.01 13.62 50.6 13.21"/>
+    </g>
+    <g id="LWPOLYLINE-13" data-name="LWPOLYLINE">
+      <polygon class="cls-3" points="63.3 13.21 63.3 12.62 63.71 12.2 64.3 12.2 64.72 12.62 64.72 13.21 64.3 13.62 63.71 13.62 63.3 13.21"/>
+    </g>
+    <g id="LWPOLYLINE-14" data-name="LWPOLYLINE">
+      <polygon class="cls-3" points="57.6 21.2 57.6 20.61 58.01 20.2 58.6 20.2 59.02 20.61 59.02 21.2 58.6 21.62 58.01 21.62 57.6 21.2"/>
+    </g>
+    <g id="LWPOLYLINE-15" data-name="LWPOLYLINE">
+      <polygon class="cls-3" points="70.3 21.2 70.3 20.61 70.71 20.2 71.3 20.2 71.72 20.61 71.72 21.2 71.3 21.62 70.71 21.62 70.3 21.2"/>
+    </g>
+    <g id="LWPOLYLINE-16" data-name="LWPOLYLINE">
+      <polygon class="cls-3" points="41.36 38.85 41.95 38.85 42.37 39.27 42.37 39.85 41.95 40.27 41.36 40.27 40.95 39.85 40.95 39.27 41.36 38.85"/>
+    </g>
+    <g id="LWPOLYLINE-17" data-name="LWPOLYLINE">
+      <polygon class="cls-3" points="41.36 51.55 41.95 51.55 42.37 51.97 42.37 52.55 41.95 52.97 41.36 52.97 40.95 52.55 40.95 51.97 41.36 51.55"/>
+    </g>
+    <g id="LWPOLYLINE-18" data-name="LWPOLYLINE">
+      <polygon class="cls-3" points="54.36 38.85 54.95 38.85 55.37 39.27 55.37 39.85 54.95 40.27 54.36 40.27 53.95 39.85 53.95 39.27 54.36 38.85"/>
+    </g>
+    <g id="LWPOLYLINE-19" data-name="LWPOLYLINE">
+      <polygon class="cls-3" points="54.36 51.55 54.95 51.55 55.37 51.97 55.37 52.55 54.95 52.97 54.36 52.97 53.95 52.55 53.95 51.97 54.36 51.55"/>
+    </g>
+    <g id="LWPOLYLINE-20" data-name="LWPOLYLINE">
+      <path class="cls-3" d="M955.16,541.43v-1.32a.66.66,0,1,0-1.32,0v1.32a.66.66,0,1,0,1.32,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-21" data-name="LWPOLYLINE">
+      <path class="cls-3" d="M957.7,541.43v-1.32a.66.66,0,1,0-1.32,0v1.32a.66.66,0,1,0,1.32,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-22" data-name="LWPOLYLINE">
+      <path class="cls-3" d="M952.62,541.43v-1.32a.66.66,0,1,0-1.32,0v1.32a.66.66,0,1,0,1.32,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-23" data-name="LWPOLYLINE">
+      <path class="cls-3" d="M988.84,539.57v1.32a.66.66,0,1,0,1.32,0v-1.32a.66.66,0,0,0-1.32,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-24" data-name="LWPOLYLINE">
+      <path class="cls-3" d="M986.3,539.57v1.32a.66.66,0,0,0,1.32,0v-1.32a.66.66,0,0,0-1.32,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-25" data-name="LWPOLYLINE">
+      <path class="cls-3" d="M991.38,539.57v1.32a.66.66,0,0,0,1.32,0v-1.32a.66.66,0,0,0-1.32,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+  </g>
+  <g id="_16" data-name="16">
+    <g id="LWPOLYLINE-26" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M985.11,522H990a2,2,0,0,0,0-4h-4.91a2,2,0,0,0,0,4Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-27" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M990.11,522.11V528a2,2,0,0,0,4,0v-5.91a2,2,0,0,0-4,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-28" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M988.6,521.43l2.1,2.1a2,2,0,0,0,2.83-2.83l-2.1-2.1a2,2,0,0,0-2.83,2.83Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-29" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M983.09,515.91l5.51,5.52a2,2,0,0,0,2.83-2.83l-5.52-5.51a2,2,0,0,0-2.82,2.82Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-30" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M984.5,512.5h-25a2,2,0,0,0,0,4h25a2,2,0,0,0,0-4Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-31" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M958.73,515.14h.77a.64.64,0,0,0,0-1.28h-.77a.64.64,0,0,0,0,1.28Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-32" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M975.76,557.37h-13a2,2,0,0,0,0,4h13a2,2,0,0,0,0-4Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-33" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M950.37,561.37h12.39a2,2,0,0,0,0-4H950.37a2,2,0,0,0,0,4Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-34" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M949.73,559.28v.09a.64.64,0,0,0,.64.63.63.63,0,0,0,.63-.63v-.09a.64.64,0,0,0-.63-.64A.64.64,0,0,0,949.73,559.28Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-35" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M959.5,512.5h-1a2,2,0,0,0,0,4h1a2,2,0,0,0,0-4Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-36" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M957.09,513.09l-17,17a2,2,0,0,0,2.82,2.82l17-17a2,2,0,0,0-2.82-2.82Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-37" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M939.5,531.5v18.91a2,2,0,0,0,4,0V531.5a2,2,0,0,0-4,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-38" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M940.09,551.83l8.86,8.86a2,2,0,0,0,2.83-2.82L942.91,549a2,2,0,1,0-2.82,2.83Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-39" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M990.92,540.23V552.5a1.13,1.13,0,1,0,2.25,0V540.23a1.13,1.13,0,1,0-2.25,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-40" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M990.54,552.5v1.73a1.5,1.5,0,0,0,3,0V552.5a1.5,1.5,0,0,0-3,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-41" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M990.63,552.82l-11.27,11.27a2,2,0,0,0,2.82,2.82l11.27-11.27a2,2,0,0,0-2.82-2.82Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-42" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M980.77,563.5H946.5a2,2,0,0,0,0,4h34.27a2,2,0,0,0,0-4Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-43" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M931.5,548.5v-3a2,2,0,0,0-4,0v3a2,2,0,0,0,4,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-44" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M947.91,564.09l-17-17a2,2,0,0,0-2.82,2.82l17,17a2,2,0,0,0,2.82-2.82Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-45" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M951.16,540l-3.46,3.46a1.13,1.13,0,1,0,1.6,1.6l3.46-3.46a1.13,1.13,0,1,0-1.6-1.6Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-46" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M947.09,550.91l4,4a2,2,0,0,0,2.82-2.82l-4-4a2,2,0,0,0-2.82,2.82Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-47" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M952.5,555.5H991a2,2,0,0,0,0-4H952.5a2,2,0,0,0,0,4Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-48" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M991.49,554l1-1a.64.64,0,0,0-.9-.9l-1,1a.64.64,0,1,0,.9.9Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-49" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M947.13,544.23v5.27a1.38,1.38,0,1,0,2.75,0v-5.27a1.38,1.38,0,1,0-2.75,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-50" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M972.77,528.63h6.13a1.13,1.13,0,0,0,0-2.25h-6.13a1.13,1.13,0,0,0,0,2.25Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-51" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M977.84,528.56l.51.52a1.5,1.5,0,0,0,2.13-2.12l-.52-.52a1.5,1.5,0,0,0-2.12,2.12Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-52" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M979,528.47l.08.08a.64.64,0,0,0,.9-.9l-.09-.08a.62.62,0,0,0-.89,0A.63.63,0,0,0,979,528.47Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-53" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M977.5,528.1v4.4a2,2,0,0,0,4,0v-4.4a2,2,0,1,0-4,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-54" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M978.09,533.91l3,3a2,2,0,0,0,2.82-2.82l-3-3a2,2,0,0,0-2.82,2.82Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-55" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M982.5,537.5h5a2,2,0,0,0,0-4h-5a2,2,0,0,0,0,4Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-56" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M990.91,536.09l-2-2a2,2,0,0,0-2.82,2.82l2,2a2,2,0,0,0,2.82-2.82Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-57" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M990.63,540.23V537.5a1.13,1.13,0,0,0-2.25,0v2.73a1.13,1.13,0,0,0,2.25,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-58" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M957,541.9h2.46a1.13,1.13,0,1,0,0-2.25H957a1.13,1.13,0,1,0,0,2.25Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-59" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M960.37,541.48l10.73-13.27a1.12,1.12,0,0,0-1.74-1.42l-10.73,13.27a1.12,1.12,0,1,0,1.74,1.42Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-60" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M956.1,528.5v12.08a1.13,1.13,0,0,0,2.25,0V528.5a1.13,1.13,0,0,0-2.25,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-61" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M956.43,539.78l-.19.19a1.13,1.13,0,0,0,1.6,1.6l.19-.19a1.13,1.13,0,1,0-1.6-1.6Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-62" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M972.41,518h-4.16a2,2,0,0,0,0,4h4.16a2,2,0,0,0,0-4Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-63" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M967.46,519.22,959,527.7a1.13,1.13,0,1,0,1.6,1.6l8.48-8.49a1.12,1.12,0,0,0-1.59-1.59Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-64" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M953.38,540.77v4.73a1.13,1.13,0,1,0,2.25,0v-4.73a1.13,1.13,0,0,0-2.25,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-65" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M953.09,546.91l1.16,1.17a2,2,0,0,0,2.83-2.83l-1.17-1.16a2,2,0,0,0-2.82,2.82Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-66" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M955.67,548.67h7.09a2,2,0,0,0,0-4h-7.09a2,2,0,0,0,0,4Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-67" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M969.1,537.5v7.27a1.13,1.13,0,1,0,2.25,0V537.5a1.13,1.13,0,0,0-2.25,0Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-68" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M968.33,544.67h-5.57a2,2,0,0,0,0,4h5.57a2,2,0,0,0,0-4Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-69" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M968.82,543.36l-1.9,1.89a2,2,0,0,0,2.83,2.83l1.89-1.9a2,2,0,0,0-2.82-2.82Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-70" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M977.18,548.08l3-3a2,2,0,0,0-2.83-2.83l-2.95,3a2,2,0,0,0,2.83,2.83Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-71" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M980.13,545.13l3.49-3.49a2,2,0,0,0-2.83-2.82l-3.49,3.48a2,2,0,0,0,2.83,2.83Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-72" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M982.2,541.35H987a1.13,1.13,0,0,0,0-2.25H982.2a1.13,1.13,0,0,0,0,2.25Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-73" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M972,538.3l5.95,5.94a1.12,1.12,0,0,0,1.59-1.59l-5.94-5.95a1.13,1.13,0,1,0-1.6,1.6Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+    <g id="LWPOLYLINE-74" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M978.08,543.45v.27a.64.64,0,0,0,.64.63.63.63,0,0,0,.63-.63v-.27a.64.64,0,0,0-.63-.64A.64.64,0,0,0,978.08,543.45Z" transform="translate(-921.11 -507.11)"/>
+    </g>
+  </g>
+</svg>
